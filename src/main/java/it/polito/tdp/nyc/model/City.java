@@ -51,6 +51,10 @@ public class City {
 	public String toString() {
 		return nome ;
 	}
+	public int getnHostSpot() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 	
 	
 	
